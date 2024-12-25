@@ -2,60 +2,48 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
+alt = Cajack2022
 Richard hanrick
-Web developer
+Cybersecurity Analyst
 
 Show Contacts
 
 Email
-richard@example.com
-
-Phone
-+1 (213) 352-2795
-
-Birthday
-June 23, 1982
-
-Location
-Sacramento, California, USA
+Cajack2022@gmail.com
 
 # navbar
 
 About
-Resume
-Portfolio
-Blog
+Projects
+Walk throughs
 Contact
 
 # about
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
-
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+Hi, I'm a cybersecurity analyst with a degree BS in Computer Science and interest in Data Analysis, AI, and Protecting Digital Assets. I love to learn and explore technology around me.
+I'm advocate for learning through life. I am always open to connect for projects or just learn from others. Feel free to reach out to me, I'm always happy to chat.
 
 ## service
 
 What i'm doing
 
 alt = design icon
-Web design
+Data Analysis
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
-Web development
+Cyber Security
 High-quality development of sites at the professional level.
 
 alt = mobile app icon
-Mobile apps
+AI
 Professional development of applications for iOS and Android.
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+My hearts desisres
+I love to learn. I love participating in CTFs and Hackathons. 
 
 
 ## testimonials
