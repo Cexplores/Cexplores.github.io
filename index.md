@@ -1,30 +1,13 @@
 
 
-# Security Data Analyst specializing in cybersecurity and Data Analysis.
-
- I love working in an intersection of Cybersecurity and Data, where I can combine my interest to help create and protect our digital world.
+# Cybersecurity + Data analysis + AI
+I'm a cybersecurity professional with a love for learning. This is where you will find information about my projects, tryhackme write ups, and ctf information.
 
 ## Core Skills
 ### Data
-- Power BI & Data Visualization
-- Python (pandas, numpy,
-- Training & Awareness Analytics
-- Advanced Excel (automation & analysis)
-- Data Analysis
-- DAX
-- SPL
-- MatLab
+- Power BI & Data Visualization, Python (pandas, numpy,), Training & Awareness Analytics, Advanced Excel (automation & analysis), Data Analysis, DAX, SPL, MatLab, JMP
 ### Cybersecurity
-- Security Training and Awareness
-- Splunk
-- Wireshark ( Packet Analysis)
-- Log analysis
-- Knowbe4
-- Proofpoint 
-- Security Awareness
-- Splunk 
-- IAM
-- Brivio
+- Security Training and Awareness, Splunk, Wireshark ( Packet Analysis), Log analysis, Knowbe4, Proofpoint , Security Awareness, Splunk, IAM, Brivo, RBAC, Virus Total
 
 ---
 
@@ -40,5 +23,4 @@
 ---
 
 ## Connect
-www.linkedin.com/in/
-christian-jackson-953564168
+www.linkedin.com/in/christianj9
