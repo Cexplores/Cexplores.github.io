@@ -17,7 +17,7 @@ I'm a cybersecurity professional with a love for learning. This is where you wil
 - CompTIA A+ CE 
 - CompTIA CySA+ ce 
 - CompTIA Security Analytics Professional (CSAP)
-- (Security+, CySA+)
+  (Security+, CySA+)
 - Microsoft Certified: Power BI Data Analyst Associate (PL - 300)
 
 ---
